@@ -1,0 +1,123 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: #597372;
+}
+
+.percent-count {
+  width: 600px;
+  height: 5px;
+  margin: 100px auto;
+  font-size: 15px;
+  text-align: center;
+  color: #fff;
+}
+
+.progress-bar {
+  width: 700px;
+  height: 21px;
+  background-color: #70908f;
+  border-radius: 13px;
+  padding: 3px;
+  margin: 50px auto;
+  margin-top: 1%;
+}
+.progress {
+  /* width 744 */
+  width: 0%;
+  height: 15px;
+  border-radius: 10px;
+  background-color: #8a6568;
+}
+
+/* for math calculation */
+
+#frame1 {
+  text-align: center;
+}
+
+#number1 {
+  text-align: center;
+}
+/*
+.msg {
+  color: #fff;
+}
+*/
+
+.show {
+  color: #fff;
+}
+.msg1 {
+  color: #fff;
+}
+.msg2 {
+  color: #fff;
+}
+.msg3 {
+  color: #fff;
+}
+.question {
+  color: #fff;
+}
+
+#input1,
+#input2,
+#input3,
+#input4,
+#input5,
+#input6,
+#input7,
+#input8,
+#input9,
+#input10 {
+  width: 70px;
+  /*
+  height: 30px;
+  border-radius: 40px;
+  padding: 0px;
+  margin: 5px auto;
+  background-color: #70908f;
+  */
+}
+
+.number1 {
+  color: #fff;
+}
+
+.number2 {
+  color: #fff;
+}
+
+/*mdn or w3school*/
+/* progress bar */
+/*
+#myProgress {
+  width: 100%;
+  background-color: grey;
+}
+
+#myBar {
+  width: 1%;
+  height: 30px;
+  background-color: green;
+}
+*/
+
+/*
+
+  decorator's white BM
+  american white BM
+  paper white BM
+  sea salt SW
+  smoke BM
+  aegean Teal BM
+  fort Pierce green BM
+  twilight BM
+  in the MIdnight hour BM
+  
+
+  */
